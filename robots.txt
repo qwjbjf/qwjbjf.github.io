@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://qwjbjf.github.io/sitemap.html.gz
+Sitemap: https://qwjbjf.github.io/app/sitemap.html.gz
+Sitemap: https://qwjbjf.github.io/assets/sitemap.html.gz
+Sitemap: https://qwjbjf.github.io/css/sitemap.html.gz
+Sitemap: https://qwjbjf.github.io/data/sitemap.html.gz
+Sitemap: https://qwjbjf.github.io/includes/sitemap.html.gz
+Sitemap: https://qwjbjf.github.io/item/sitemap.html.gz
+Sitemap: https://qwjbjf.github.io/src/sitemap.html.gz
